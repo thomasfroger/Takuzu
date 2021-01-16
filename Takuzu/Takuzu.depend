@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558543298 source:c:\users\nathan\documents\takuzu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+	"conio.h"
+
+1557934221 source:c:\users\nathan\documents\takuzu\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1557934223 c:\users\nathan\documents\takuzu\conio.h
+	<stdio.h>
+
