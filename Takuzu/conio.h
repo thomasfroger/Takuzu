@@ -1,13 +1,4 @@
 
-/* A conio implementation for Mingw/Dev-C++.
- *
- * Written by:
- * Hongli Lai <hongli@telekabel.nl>
- * tkorrovi <tkorrovi@altavista.net> on 2002/02/26.
- * Andrew Westcott <ajwestco@users.sourceforge.net>
- *
- * Offered for use in the public domain without any warranty.
- */
 
 #ifndef _CONIO_H_
 #define _CONIO_H_
